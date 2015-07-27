@@ -150,4 +150,39 @@ Does 'Come See About Me - The Supremes' look correct? (y/n): y
 ### 5. Extra Credit: Comparisons
 
 1. **Extra Credit:** Implement `get_most_popular_songs` in `jukebox.py`. The comments in the file will tell you the intended behavior.
+
   **Hint:** You may want to use the `sorted()` function.
+
+  Here's an example of what you should see (with the menu text removed):
+```
+Enter a number: 2
+Choose a song from the list:
+  1: Here Comes the Sun - The Beatles
+  2: Sweet Caroline - Neil Diamond
+  3: Baby Love - The Supremes
+  4: Come See About Me - The Supremes
+Enter a song number: 4
+Playing 'Come See About Me - The Supremes'
+```
+```
+Enter a song number: 3
+Playing 'Baby Love - The Supremes'
+```
+```
+Enter a song number: 4
+Playing 'Come See About Me - The Supremes'
+```
+```
+Enter a song number: 1
+Playing 'Here Comes the Sun - The Beatles'
+```
+```
+Enter a song number: 2
+Playing 'Sweet Caroline - Neil Diamond'
+```
+```
+Enter a number: 6 
+  1: Come See About Me - The Supremes (plays: 2)
+  2: Here Comes the Sun - The Beatles (plays: 1)
+  3: Sweet Caroline - Neil Diamond (plays: 1)
+ ```
