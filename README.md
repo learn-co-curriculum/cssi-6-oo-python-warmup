@@ -87,6 +87,19 @@ Enter a number: 4
 Enter a number: 3 
   Now playing: None
 ```
+```
+Enter a number: 2
+Choose a song from the list:
+  1: Here Comes the Sun - The Beatles
+  2: Sweet Caroline - Neil Diamond
+Enter a song number: 1
+Playing 'Here Comes the Sun - The Beatles'
+```
+```
+Enter a number: 6
+  1: Here Comes the Sun - The Beatles (plays: 2)
+  2: Sweet Caroline - Neil Diamond (plays: 1)
+```
 
 ### 4. Creating objects and `__eq__`
 1. Implement `__eq__` in `song.py`.
