@@ -102,7 +102,7 @@ Enter a number: 6
 ```
 
 ### 4. Creating objects and `__eq__`
-1. Implement `__eq__` in `song.py`.
+1. Implement `__eq__` in `song.py`. The comments in the file will tell you the intended behavior.
 
   **Note:** Like `__init__` and `__str__`, `__eq__` is another special method in Python. `__eq__` gets called whenever the `==` operator is applied to two objects of that type. 
 2. Implement `add_song` in `jukebox.py`. The comments in the file will tell you the intended behavior.
@@ -146,3 +146,8 @@ Enter the song's artist: The Supremes
 Does 'Come See About Me - The Supremes' look correct? (y/n): y
 'Come See About Me - The Supremes' already exists.
 ```
+
+### 5. Extra Credit: Comparisons
+
+1. **Extra Credit:** Implement `get_most_popular_songs` in `jukebox.py`. The comments in the file will tell you the intended behavior.
+  **Hint:** You may want to use the `sorted()` function.
