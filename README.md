@@ -11,7 +11,8 @@ The first part of this lab is to simply see the working product that you're goin
 
 1. Open `main.py` in Atom.
 2. Uncomment the `import` statements that load the solution modules. **Don't** look at the solution source, though!
-```python
+
+  ```python
 # Uncomment the import statements below to view the solution's behavior.
 import solution.jukebox_solution as jukebox 
 import solution.song_solution as song
@@ -19,7 +20,8 @@ import solution.song_solution as song
 3. In the Terminal, run `python main.py` to run the working Jukebox. Try out a few commands, etc.
   * If there appears to be a bug in the behavior, tell Victoria :) 
 4. When you're done playing around, comment out the solution import statements again.
-```python
+
+  ```python
 # Uncomment the import statements below to view the solution's behavior.
 # import solution.jukebox_solution as jukebox 
 # import solution.song_solution as song
