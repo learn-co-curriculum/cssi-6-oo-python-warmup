@@ -1,4 +1,4 @@
-# Object-oriented Python Day 6 Warm-up!
+# Object-Oriented Python Day 6 Warm-up!
 
 ## Instructions:
 Fork and clone this lab, then complete the exercises below.
