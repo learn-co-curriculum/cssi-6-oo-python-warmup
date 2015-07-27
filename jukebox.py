@@ -23,7 +23,8 @@ class Jukebox:
 
     def add_song(self, song):
         # Add a new Song object |song| to the Jukebox, if there is not already
-        # a Song in the Jukebox with the same name and title
+        # a Song in the Jukebox with the same name and title. Returns True if
+        # the song was added, False otherwise.
         pass
 
     def get_most_popular_songs(self, number_of_songs):
