@@ -50,8 +50,9 @@ import solution.song_solution as song
 ```
 
 ### 3. Adding state to objects
-1. Implement `play_song`, `current_song`, and `stop_current_song` in `jukebox.py`. The comments in the file will tell you the intended behavior.
-2. Test out your object by running `python main.py`, and try out the "Play song", "View current song", and "Stop current song" commands.
+1. Implement `play` and `times_played` in `song.py`. The comments in the file will tell you the intended behavior.
+2. Implement `play_song`, `current_song`, and `stop_current_song` in `jukebox.py`. The comments in the file will tell you the intended behavior.
+3. Test out your object by running `python main.py`, and try out the "Play song", "View current song", "Stop current song", and "Top 3 songs" commands.
 
   Here's an example of what you should see (with the menu text removed):
 ```
