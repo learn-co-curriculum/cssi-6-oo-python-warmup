@@ -5,14 +5,15 @@ import song
 # import solution.jukebox_solution as jukebox
 # import solution.song_solution as song
 
-##############################################################################
-# DO NOT EDIT BELOW THIS LINE!!!
-##############################################################################
-
+# You may want to edit the default songs for testing purposes.
 DEFAULT_SONGS = [
     song.Song("Here Comes the Sun", "The Beatles"),
     song.Song("Sweet Caroline", "Neil Diamond")
 ]
+
+##############################################################################
+# DO NOT EDIT BELOW THIS LINE!!!
+##############################################################################
 
 MENU_OPTIONS = [
     "View song list",
