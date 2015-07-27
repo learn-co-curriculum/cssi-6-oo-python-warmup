@@ -18,7 +18,7 @@ import solution.jukebox_solution as jukebox
 import solution.song_solution as song
 ```
 3. In the Terminal, run `python main.py` to run the working Jukebox. Try out a few commands, etc.
-  * If there appears to be a bug in the behavior, tell Victoria :) 
+  * If there appears to be a bug in the behavior, tell your lead instructor :) 
 4. When you're done playing around, comment out the solution import statements again.
 
   ```python
