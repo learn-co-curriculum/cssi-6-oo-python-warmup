@@ -189,4 +189,4 @@ Enter a number: 6
   3: Sweet Caroline - Neil Diamond (plays: 1)
  ```
 
-<a href='https://learn.co/lessons/cssi-6-oo-python-warmup' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-6-oo-python-warmup' title='Object-Oriented Python Day 6 Warm-up!'>Object-Oriented Python Day 6 Warm-up!</a> on Learn.co and start learning to code for free.</p>
